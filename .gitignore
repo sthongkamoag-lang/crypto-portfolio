@@ -39,4 +39,4 @@ deploy-error.txt
 .eslintcache
 
 # Package manager lock files (optional - คุณอาจต้องการเก็บ package-lock.json)
-# package-lock.json
+# package-lock.json.DS_Store
