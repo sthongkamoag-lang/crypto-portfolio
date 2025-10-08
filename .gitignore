@@ -40,3 +40,8 @@ deploy-error.txt
 
 # Package manager lock files (optional - คุณอาจต้องการเก็บ package-lock.json)
 # package-lock.json.DS_Store
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
