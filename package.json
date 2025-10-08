@@ -2,7 +2,7 @@
   "name": "crypto-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/sthongkamoag-lang/crypto-portfolio.git",
+  "homepage": "https://sthongkamoag-lang.github.io/crypto-portfolio",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
